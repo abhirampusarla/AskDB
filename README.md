@@ -81,7 +81,7 @@ database='your_database'
 
 Run DB Connection Check.py to confirm the connection:
 
-python "DB Connection Check.py"
+### python "DB Connection Check.py"
 
 ## 🚀 Running the App
 
